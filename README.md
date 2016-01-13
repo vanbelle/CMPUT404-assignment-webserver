@@ -25,4 +25,4 @@ compatible) http://docs.python.org/2/library/socketserver.html
 Consulted Ressources
 ========================
 
-https://docs.python.org/2/howto/webservers.html
+https://docs.python.org/2/howto/webservers.html 01/13/2016
