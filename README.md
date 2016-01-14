@@ -25,7 +25,7 @@ compatible) http://docs.python.org/2/library/socketserver.html
 Screenshots
 ========================
 
-![alt tag] https://github.com/vanbelle/CMPUT404-assignment-webserver/blob/master/www.png
+![alt tag] (https://github.com/vanbelle/CMPUT404-assignment-webserver/blob/master/www.png)  
 
 Consulted Ressources
 ========================
